@@ -1,0 +1,6 @@
+C: 1000
+alpha: 0.005
+n_epoch: 1000
+Training Accuracy: 0.93
+Test Accuracy: 0.92
+Test Objective Value: 600106.2863511132
